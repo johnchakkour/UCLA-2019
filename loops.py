@@ -19,4 +19,3 @@ while i<=a:
     i = i+1
 print(next_val)
     
-
