@@ -1,3 +1,5 @@
+import math
+
 def max(a,b):
     if a>b:
         return a
@@ -7,8 +9,6 @@ def max(a,b):
 a = input()
 b = input()
 print(max(a,b), "is bigger")
-
-import math
 
 def findMax(a):
     b = a[0]
